@@ -5,7 +5,7 @@ Written by freem; initially released on 2025/10/02
 ## Introduction
 SH6578 Color Test is a small utility ROM allowing you to preview the palette colors
 of the SH6578 in 16 color mode.<br>
-This is a follow-up (but not a sequel) to my VT03 Color Test tool.
+This is a follow-up (but not a sequel) to my [VT03 Color Test tool](https://github.com/freem/colortest-vt03).
 
 While "UM6578", "NT6578", and "SH6578" all refer to the same chipset,
 this program and its documentation use "SH6578", as that was the only version
